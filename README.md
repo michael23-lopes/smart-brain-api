@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="haitatsu" title="Haitatsu" src="./server/.github/logo.png" width="400px" />
+  <img alt="" title="" src="./web/img-github/smart-brain.png" width="400px" />
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <a href="./server/"><img src="https://raw.githubusercontent.com/michaelwell23/projeto-servico-de-entregas/master/server/.github/nodejs.svg" alt="Node.Js" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="./web/"><img src="https://raw.githubusercontent.com/michaelwell23/projeto-servico-de-entregas/master/server/.github/reactjs.svg" alt="ReactJS">
-  </a>&nbsp;&nbsp;&nbsp;&nbs
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ### SOBRE O PROJETO
